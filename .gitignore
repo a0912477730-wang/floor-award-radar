@@ -1,5 +1,5 @@
 work/
 outputs/
-data/
+/data/
 node_modules/
 .DS_Store

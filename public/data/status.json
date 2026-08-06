@@ -1,14 +1,24 @@
 {
-  "lastAttempt": "2026-08-06T05:05:40.936Z",
+  "lastAttempt": "2026-08-06T05:09:37.194Z",
   "lastSuccess": null,
   "checked": 0,
   "added": 0,
   "officialRecords": 0,
   "errors": [
+    "全國搜尋 地板：HTTP 403",
+    "全國搜尋 地毯：HTTP 403",
+    "全國搜尋 PVC地磚：HTTP 403",
+    "全國搜尋 木地板：HTTP 403",
+    "全國搜尋 架高地板：HTTP 403",
+    "全國搜尋 高架地板：HTTP 403",
+    "全國搜尋 導電地板：HTTP 403",
+    "全國搜尋 防靜電地板：HTTP 403",
+    "全國搜尋 塑膠地磚：HTTP 403",
+    "全國搜尋 橡膠地板：HTTP 403",
     "臺南市政府工程決標公告資料：fetch failed",
     "臺南市政府勞務決標公告資料：fetch failed",
     "臺南市政府財物決標公告資料：fetch failed"
   ],
-  "source": "臺南市政府公開資料 API",
+  "source": "政府電子採購網／OpenFun API、臺南市政府公開資料 API",
   "intervalHours": 6
 }

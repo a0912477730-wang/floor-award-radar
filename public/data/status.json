@@ -1,1 +1,14 @@
-{"lastAttempt":null,"lastSuccess":null,"checked":0,"added":0,"officialRecords":0,"errors":[],"source":"臺南市政府公開資料 API","intervalHours":6}
+{
+  "lastAttempt": "2026-08-06T05:05:40.936Z",
+  "lastSuccess": null,
+  "checked": 0,
+  "added": 0,
+  "officialRecords": 0,
+  "errors": [
+    "臺南市政府工程決標公告資料：fetch failed",
+    "臺南市政府勞務決標公告資料：fetch failed",
+    "臺南市政府財物決標公告資料：fetch failed"
+  ],
+  "source": "臺南市政府公開資料 API",
+  "intervalHours": 6
+}

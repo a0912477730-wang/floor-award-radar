@@ -1,5 +1,5 @@
 {
-  "lastAttempt": "2026-09-02T11:14:00.278Z",
+  "lastAttempt": "2026-09-02T16:32:24.837Z",
   "lastSuccess": null,
   "checked": 0,
   "added": 0,
@@ -9,7 +9,7 @@
     "全國搜尋 地毯：HTTP 403",
     "全國搜尋 PVC地磚：HTTP 403",
     "全國搜尋 木地板：HTTP 403",
-    "全國搜尋 架高地板：HTTP 403",
+    "全國搜尋 架高地板：fetch failed",
     "全國搜尋 高架地板：HTTP 403",
     "全國搜尋 導電地板：HTTP 403",
     "全國搜尋 防靜電地板：HTTP 403",
